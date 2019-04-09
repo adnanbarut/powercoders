@@ -1,0 +1,22 @@
+body {background-color: yellow; }
+/*body: tag. bckgrnd-clr: property. yellow: value*/
+p, h1, h2 {zfkzudöfo: hfu;} /*for more than one tag*/
+
+
+
+code p {}
+
+.main {} /*HTML: class="main"*/
+
+.didi {} /* class="didi"*/
+
+.navy span {} /*<p class="navy"> This is <span> paragraph </span></p> */
+
+#whatever {} /* id=whatever"*/
+
+/* SPECIFICITY > ORDER */
+
+HOW TO RESET css:
+
+
+
